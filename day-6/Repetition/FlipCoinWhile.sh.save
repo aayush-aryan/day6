@@ -1,0 +1,8 @@
+#!/bin/bash
+
+headCount=1
+tailcount=1
+count=1
+isHead=0
+
+
